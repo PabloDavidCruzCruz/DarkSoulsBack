@@ -1,0 +1,187 @@
+[
+    {
+        "id":"1",
+        "nombre": "Demonio del refugio",
+        "suelta": "Gran martillo demonio",
+        "saludNJ": "813",
+        "saludNJPlus": "2.195",
+        "almas": "2.000",
+        "almasNJPlus": "10,000"
+    },
+
+    {
+        "id": "2",
+        "nombre": "Demonio Tauro",
+        "suelta": "Gran Hacha Demonio",
+        "saludNJ": "1.250",
+        "saludNJPlus": "2.394",
+        "almas": "3.000",
+        "almasNJPlus": "15.000"
+    },
+
+    {
+        "id": "3",
+        "nombre": "Demonio de Aries",
+        "suelta": "Llave Profundidades",
+        "saludNJ": "1.776",
+        "saludNJPlus": "2.940",
+        "almas": "6.000",
+        "almasNJPlus": "30.000"
+    },
+
+    {
+        "id": "4",
+        "nombre": "Gargolas Campana",
+        "suelta": "Humanidades Gemelas",
+        "saludNJ": "2.300",
+        "saludNJPlus": "4.000",
+        "almas": "10.000",
+        "almasNJPlus": "50.000"
+    },
+
+    {
+        "id": "5",
+        "nombre": "Dragon Boquiabierto",
+        "suelta": "Llave ciudad infestada",
+        "saludNJ": "4.660",
+        "saludNJPlus": "8.947",
+        "almas": "25.000",
+        "almasNJPlus": "75.000"
+    },
+
+    {
+        "id": "6",
+        "nombre": "Quelaag la Bruja del caos",
+        "suelta": "Alma de Quelaag",
+        "saludNJ": "3.139",
+        "saludNJPlus": "6.028",
+        "almas": "20.000",
+        "almasNJPlus": "60.000"
+    },
+
+    {
+        "id": "7",
+        "nombre": "Sif el gran lobo gris",
+        "suelta": "Pacto de Arotias",
+        "saludNJ": "3.432",
+        "saludNJPlus": "5.800",
+        "almas": "40.000",
+        "almasNJPlus": "120.000"
+    },
+
+    {
+        "id": "8",
+        "nombre": "Demonio Tauro",
+        "suelta": "Gran Hacha Demonio",
+        "saludNJ": "1.250",
+        "saludNJPlus": "2.394",
+        "almas": "3.000",
+        "almasNJPlus": "15.000"
+    },
+
+    {
+        "id": "9",
+        "nombre": "Golem de hierro",
+        "suelta": "Nucleo Golem hierro",
+        "saludNJ": "40.000",
+        "saludNJPlus": "120.000",
+        "almas": "40.000",
+        "almasNJPlus": "120.000"
+    },
+
+    {
+        "id": "10",
+        "nombre": "Ornstein y Smough",
+        "suelta": "Anillo del leon",
+        "saludNJ": "2.982/4.094",
+        "saludNJPlus": "4.630/5.900",
+        "almas": "50.000",
+        "almasNJPlus": "150.000"
+    },
+
+    {
+        "id": "11",
+        "nombre": "Seath el descamado",
+        "suelta": "Fragmento alma señor legada",
+        "saludNJ": "5.525",
+        "saludNJPlus": "8.674",
+        "almas": "60.000",
+        "almasNJPlus": "120.000"
+    },
+
+    {
+        "id": "12",
+        "nombre": "Molinete",
+        "suelta": "Rito del Avivado",
+        "saludNJ": "1.326",
+        "saludNJPlus": "2.691",
+        "almas": "15.000",
+        "almasNJPlus": "25.000"
+    },
+
+    {
+        "id": "13",
+        "nombre": "Nito el rey del cementerio",
+        "suelta": "Alma señor",
+        "saludNJ": "4.317",
+        "saludNJPlus": "7.076",
+        "almas": "60.000",
+        "almasNJPlus": "120.000"
+    },
+
+    {
+        "id": "14",
+        "nombre": "Cuatro reyes",
+        "suelta": "Fragmento alma señor legada",
+        "saludNJ": "9.504",
+        "saludNJPlus": "16.060",
+        "almas": "60.000",
+        "almasNJPlus": "180.000"
+    },
+
+    {
+        "id": "15",
+        "nombre": "Demonio Tauro",
+        "suelta": "Gran Hacha Demonio",
+        "saludNJ": "1.250",
+        "saludNJPlus": "2.394",
+        "almas": "3.000",
+        "almasNJPlus": "15.000"
+    },
+
+    {
+        "id": "16",
+        "nombre": "Descarga incesante",
+        "suelta": "Humanidad",
+        "saludNJ": "4.200",
+        "saludNJPlus": "6.500",
+        "almas": "20.000",
+        "almasNJPlus": "40.000"
+    },
+
+    {
+        "id": "17",
+        "nombre": "Lecho del caos",
+        "suelta": "Alma señor",
+        "saludNJ": "2",
+        "saludNJPlus": "3",
+        "almas": "60.000",
+        "almasNJPlus": "120.000"
+    },
+
+    {
+        "id": "18",
+        "nombre": "Gwyn señor de la ceniza",
+        "suelta": "Alma Final",
+        "saludNJ": "4.250",
+        "saludNJPlus": "6.745",
+        "almas": "70.000",
+        "almasNJPlus": "140.000"
+    }
+
+
+
+
+    
+
+]
