@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <%- include('partials/header') %>
+    <title>Nuevo registro</title>
+</head>
+<body>
+    <%- include('partials/navigation') %>
+    <div class="contain p-4">
+        <form method="POST" action="/new-entry" class="card card-body">
+           <div class="form-group">
+            <label for="Title">Nombre</label>
+            <input type="text" class="form-control" name="title" id="title" placeholder="Nombre del enemigo" autofocus required>
+           </div>
+
+           <div class="form-group">
+            <label for="Tipo">Tipo</label>
+            <input type="text" class="form-control" name="tipo" id="tipo" placeholder="Tipo de enemigo" autofocus required>
+           </div>
+
+           <div class="form-group">
+            <label for="Debilidad">Debilidad</label>
+            <input type="text" class="form-control" name="debilidad" id="debilidad" placeholder="Debilidad de enemigo" autofocus required>
+           </div>
+
+           <div class="form-group">
+            <label for="Dificultad">Dificultad</label>
+            <input type="text" class="form-control" name="dificultad" id="dificultad" placeholder="Dificultad del enemigo" autofocus required>
+           </div>
+
+           <div class="form-group">
+            <label for="image">Imagenes</label>
+            <input type="text" class="form-control" name="image" id="image" placeholder="http://website.com" autofocus required>
+           </div>
+
+           <div class="form-group">
+            <label for="descripcion">Descripcion</label>
+            <textarea name="descripcion" id="descripcion" rows="2" class="form-control" placeholder="Descripcion del enemigo" required></textarea>
+           </div>
+            <input type="submit" value="Guardar enemigo" class="btn btn-primary">
+        </form>
+    </div>
+</body>
+</html>
