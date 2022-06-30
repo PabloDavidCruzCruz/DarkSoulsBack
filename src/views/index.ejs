@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <%- include('partials/header') %>
+</head>
+
+<body>
+    <%- include('partials/navigation') %>
+        <div class="container p-4">
+            <div class="row">
+                <% enemigos.forEach(function(enemigo) { %>
+                    <div class="col-md-4">
+                        <div class="card">
+                            <div class="card-header">
+                                <h1>Nombre:<%= enemigo.title %>
+                                </h1>
+                                <h1>Tipo:<%= enemigo.tipo %>
+                                </h1>
+                                <h1>Debilidad:<%= enemigo.debilidad %>
+                                </h1>
+                                <h1>Dificultad:<%= enemigo.dificultad %>
+                                </h1>
+                            </div>
+                            <img src="<%= enemigo.image %>" class="card-img-top">
+                            <div class="cardy-body">
+                                <p>
+                                <h1>
+                                    <%= enemigo.descripcion %>
+                                </h1>
+
+                                </p>
+                            </div>
+                        
+                        </div>
+                    </div>
+                    <% }) %>
+            </div>
+
+        </div>
+</body>
+
+</html>
